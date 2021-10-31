@@ -1,3 +1,3 @@
-![Mad Maids Hero Image](./profile/banner.png)
+![Mad Maids Hero Image](./profile/banners.png)
 
 <!-- BRB -->
